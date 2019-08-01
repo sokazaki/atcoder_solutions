@@ -11,4 +11,6 @@ int main() {
     } else {
         cout << "Heisei";
     }
+
+    return 0;
 }
