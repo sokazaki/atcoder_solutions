@@ -1,4 +1,4 @@
-# AtCoder 500+ problems' solutions in C++
+# AtCoder problems' solutions in C++
 
 https://atcoder.jp/  
 https://kenkoooo.com/atcoder/  
